@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-This is a test
+AND,NAND AND or gates are xxxsdsdkmwskmewd
 ## How to test
 
-This is a test
+werewrewrewrewrewrwer
 
 ## External hardware
 
-This is a test
+rewrwer werewrewrewr wefwefwefwe wewerwerewrwer
